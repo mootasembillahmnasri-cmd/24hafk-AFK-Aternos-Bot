@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mainslickal.aternos.me:25186",
+    "ip": "mainslickal.aternos.me",
     "port": 25186,
     "version": "",
     "try-creative": false
